@@ -1,4 +1,4 @@
-# 🌲 CypressTestSuite: Cypress Testing Repository 
+# 🌲 CypressTestSuite
 
 🚀 Welcome to the Cypress Testing Repository! This repository contains automated tests written using Cypress for various test cases. Explore the test suite and ensure the functionality of the application with ease.
 
